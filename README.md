@@ -40,12 +40,11 @@ I build custom electronics and mess around with microcontrollers. I like turning
 
 ---
 
-## GitHub Stats
+## Activity Graph
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=not-Raid&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Raid&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=not-Raid&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
 </div>
 
