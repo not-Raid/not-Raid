@@ -6,7 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/not-Raid?style=for-the-badge&color=8B5CF6&labelColor=0F172A)](https://github.com/not-Raid)
 [![GitHub Stars](https://img.shields.io/github/stars/not-Raid?style=for-the-badge&color=EC4899&labelColor=0F172A)](https://github.com/not-Raid)
-[![Repositories](https://img.shields.io/github/repositories/count/not-Raid?style=for-the-badge&color=06B6D4&labelColor=0F172A)](https://github.com/not-Raid?tab=repositories)
+[![Repositories](https://img.shields.io/github/repos-personal/not-Raid?style=for-the-badge&color=06B6D4&labelColor=0F172A)](https://github.com/not-Raid?tab=repositories)
 
 ---
 
@@ -35,7 +35,7 @@ I build custom electronics and mess around with microcontrollers. I like turning
 ## Stack
 
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://espressif.com)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 ---
@@ -44,8 +44,8 @@ I build custom electronics and mess around with microcontrollers. I like turning
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=not-Raid&show_icons=true&theme=rose_pine&hide_border=true&title_color=EC4899&icon_color=06B6D4&text_color=94A3B8&bg_color=0F172A" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Raid&layout=compact&theme=rose_pine&hide_border=true&title_color=EC4899&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=not-Raid&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Raid&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 
 </div>
 
